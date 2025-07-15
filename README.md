@@ -36,18 +36,10 @@ Target classes:
 <img width="809" height="529" alt="Screenshot 2025-07-04 at 11 35 13 PM" src="https://github.com/user-attachments/assets/4dfacda9-56b4-499b-a89e-f954b60dc57d" />
 <img width="670" height="214" alt="Screenshot 2025-07-04 at 11 34 51 PM" src="https://github.com/user-attachments/assets/397d9cd3-2d8b-490a-a065-7b1263b0f675" />
 
-
 ## 🧠 Learnings
 - Understanding basic classification algorithms  
 - Visualizing data distributions and relationships  
 - Hands-on with `train_test_split`, `KNN`, and evaluation metrics
-
-## 🚀 Run This Project
-```bash
-git clone https://github.com/ishasahlot/iris_flower_classification.git
-cd iris_flower_classification
-pip install -r requirements.txt
-jupyter notebook iris_classification.ipynb
 
 Author
 Isha Sahlot - LinkedIn : (https://www.linkedin.com/in/isha-sahlot-a18494219/)
