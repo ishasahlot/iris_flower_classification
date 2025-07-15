@@ -50,7 +50,7 @@ pip install -r requirements.txt
 jupyter notebook iris_classification.ipynb
 
 Author
-Isha Sahlot
+Isha Sahlot - LinkedIn : (https://www.linkedin.com/in/isha-sahlot-a18494219/)
 🎓 BTech Computer Science & Engineering (CyberSecurity)
 💻 Beginner in ML | Exploring Data Science 
 
