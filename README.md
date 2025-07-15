@@ -42,8 +42,11 @@ Target classes:
 - Hands-on with `train_test_split`, `KNN`, and evaluation metrics
 
 Author
+
 Isha Sahlot - LinkedIn : (https://www.linkedin.com/in/isha-sahlot-a18494219/)
+
 🎓 BTech Computer Science & Engineering (CyberSecurity)
+
 💻 Beginner in ML | Exploring Data Science 
 
 > 🚀 Part of CodSoft Data Science Internship Tasks
