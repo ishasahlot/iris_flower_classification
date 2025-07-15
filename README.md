@@ -31,6 +31,9 @@ Target classes:
 - Model Accuracy: **~97%** on the test data  
 - Confusion Matrix shows near-perfect classification
 
+<img width="1067" height="986" alt="1" src="https://github.com/user-attachments/assets/175f9b10-259c-4b1a-85d2-87b7bf942345" />
+
+
 ## 🧠 Learnings
 - Understanding basic classification algorithms  
 - Visualizing data distributions and relationships  
